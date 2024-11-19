@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kirayukhno
 - 👀 I’m interested in women😚
-- 🌱 I’m currently learning women😚
-- 💞️ I’m looking to collaborate on women😚
-- 📫 How to reach me: women only😚
+- 🌱 I’m currently learning women🏅
+- 💞️ I’m looking to collaborate on women💐
+- 📫 How to reach me: women only😪
 - 😄 Pronouns: your/wife😝
 - ⚡ Fun fact: i love your mom😈
 
