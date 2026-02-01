@@ -5,13 +5,13 @@
 ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　⠀⠀⠀✦ ⠀ ⠀　　　　　　⠀⠀⠀⠀⠀* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✦⠀⠀　　　　.　　　ﾟ .    
  # About me! <img src="https://media1.tenor.com/m/jj19Yij3SKgAAAAC/lady-gaga-lady-gaga-shrug.gif" width="44" alt="welcome gif"/>
 - 👋 Hi, I’m @kirayukhno
-- 👀 I’m passionate about learning fullstack technologies 😚
-- 🌱 I’m currently learning Next.js 🏅
-- 💞️ I’m looking to collaborate on supercool creative projects 💐
+- 👀 I’m passionate about learning Fullstack technologies
+- 🌱 I’m currently learning Next.js
+- 💞️ I’m looking to collaborate on creative and helpful things!
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kira-yukhno" target="_blank" style="color:green">LinkedIn</a> | <a href="mailto:kira.yukhno123@gmail.com">Send email</a> 💋
 - ⚡ Fun fact: I love <a href="https://www.last.fm/user/sanyuppi" target="_blank">music</a>!
 
- # Languages and Tools:
+ # Languages and Tools
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/></a> 
