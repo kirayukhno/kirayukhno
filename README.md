@@ -5,25 +5,13 @@
 　　　　　✦⠀　   　　　,　　    　　　　　　　　.
 ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　⠀⠀⠀✦ ⠀ ⠀　　　　　　　　　　　　　　⠀⠀⠀⠀⠀* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .
          
- # About me!
-<table border="0">
-  <tr>
-    <td>
-      
+ # About me! <img src="https://media1.tenor.com/m/jj19Yij3SKgAAAAC/lady-gaga-lady-gaga-shrug.gif" width="44" alt="welcome gif"/>
 - 👋 Hi, I’m @kirayukhno
 - 👀 I’m passionate about learning fullstack technologies 😚
 - 🌱 I’m currently learning Next.js 🏅
 - 💞️ I’m looking to collaborate on supercool creative projects 💐
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kira-yukhno" target="_blank" style="color:green">LinkedIn</a> | <a href="mailto:kira.yukhno123@gmail.com">Send email</a> 💋
-- ⚡ Fun fact: I love <a href="https://www.last.fm/user/sanyuppi" target="_blank">music</a>!      
-    </td>
-    <td>
-      
-   ![welcome-gif](https://media1.tenor.com/m/jj19Yij3SKgAAAAC/lady-gaga-lady-gaga-shrug.gif) 
-    </td>
-  </tr>
-</table>
-
+- ⚡ Fun fact: I love <a href="https://www.last.fm/user/sanyuppi" target="_blank">music</a>!
 
  # Languages and Tools:
 <p align="left"> 
