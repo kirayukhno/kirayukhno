@@ -8,7 +8,7 @@
 - 👀 I’m passionate about learning Fullstack technologies
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on creative and helpful things!
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/kira-yukhno" target="_blank" style="color:green">LinkedIn</a> | <a href="mailto:kira.yukhno123@gmail.com">Send email</a> 💋
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/kira-yukhno" target="_blank">LinkedIn</a> | <a href="mailto:kira.yukhno123@gmail.com">Send email</a> 💋
 - ⚡ Fun fact: I love <a href="https://www.last.fm/user/sanyuppi" target="_blank">music</a>!
 
  # Languages and Tools
