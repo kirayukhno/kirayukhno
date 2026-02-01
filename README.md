@@ -4,16 +4,28 @@
 .⠀ 　　　　　　　　　　.　　　　　　　　.
 　　　　　✦⠀　   　　　,　　    　　　　　　　　.
 ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　⠀⠀⠀✦ ⠀ ⠀　　　　　　　　　　　　　　⠀⠀⠀⠀⠀* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .
-<h1>About me!</h1>
-
+         
+ # About me!
+<table border="0">
+  <tr>
+    <td>
+      
 - 👋 Hi, I’m @kirayukhno
 - 👀 I’m passionate about learning fullstack technologies 😚
 - 🌱 I’m currently learning Next.js 🏅
 - 💞️ I’m looking to collaborate on supercool creative projects 💐
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kira-yukhno" target="_blank" style="color:green">LinkedIn</a> | <a href="mailto:kira.yukhno123@gmail.com">Send email</a> 💋
-- ⚡ Fun fact: I love <a href="https://www.last.fm/user/sanyuppi" target="_blank">music</a>!
+- ⚡ Fun fact: I love <a href="https://www.last.fm/user/sanyuppi" target="_blank">music</a>!      
+    </td>
+    <td>
+      
+   ![welcome-gif](https://media1.tenor.com/m/jj19Yij3SKgAAAAC/lady-gaga-lady-gaga-shrug.gif) 
+    </td>
+  </tr>
+</table>
 
-<h1>Languages and Tools:</h1>
+
+ # Languages and Tools:
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/></a> 
@@ -25,6 +37,8 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>&nbsp;
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
 </p>
+
+
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .
 　　　*　　⠀.
 　　　　　.　　　　　　　　　　⠀✦
