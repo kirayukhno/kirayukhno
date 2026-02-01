@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @kirayukhno
-- 👀 I’m interested in women😚
-- 🌱 I’m currently learning women🏅
-- 💞️ I’m looking to collaborate on women💐
-- 📫 How to reach me: women only😪
-- 😄 Pronouns: your/wife😝
-- ⚡ Fun fact: i love your mom😈
+- 👀 I’m passionate about learning fullstack technologies 😚
+- 🌱 I’m currently learning Next.js 🏅
+- 💞️ I’m looking to collaborate on supercool creative projects 💐
+- 📫 How to reach me: hit me up on <a href="www.linkedin.com/in/kira-yukhno">LinkedIn</a> 💋
+- ⚡ Fun fact: I love <a href="https://www.last.fm/user/sanyuppi">music</a>!
 
 <!---
 kirayukhno/kirayukhno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
