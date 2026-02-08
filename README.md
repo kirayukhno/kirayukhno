@@ -11,6 +11,11 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kira-yukhno" target="_blank">LinkedIn</a> | <a href="mailto:kira.yukhno123@gmail.com">Send email</a>
 - ⚡ Fun fact: I love <a href="https://www.last.fm/user/sanyuppi" target="_blank">music</a>!
 
+ # Favourite Projects
+- 👥 [WEBSTUDIO](https://kirayukhno.github.io/goit-markup-hw-06/): simple but informative business website
+- 🛋️ [Mebleriia](https://karinabosenko.github.io/undefined-heroes/): I contributed with second section, which used complex API work
+- 📝 [Notehub](https://09-auth-kappa-five.vercel.app/): site for managing notes with possibility to register
+
  # Languages and Tools
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/></a>
