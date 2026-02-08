@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love <a href="https://www.last.fm/user/sanyuppi" target="_blank">music</a>!
 
  # Favourite Projects
-- 👥 [WEBSTUDIO](https://kirayukhno.github.io/goit-markup-hw-06/): simple but informative business website
+- 👥 [WEBSTUDIO](https://kirayukhno.github.io/webstudio/): simple but informative business website
 - 🛋️ [Mebleriia](https://karinabosenko.github.io/undefined-heroes/): I contributed with second section, which used complex API work
 - 📝 [Notehub](https://09-auth-kappa-five.vercel.app/): site for managing notes with possibility to register
 
